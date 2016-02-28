@@ -1,0 +1,5 @@
+1111,Joe,Smith,01/01/1971,111 Jay St,718-111-1111-,jsmith@mycomp.com,Manager
+2222,Angel,Rodriguez,02/02/1972,222 Flatbush Ave,718-222-2222-,arodriguez@mycomp.com,Director
+3333,Sam,Petrson,03/03/1973,333 Dekalb Av,718-333-3333-,speterson@mycomp.com,Office
+4444,Mary,Johnson,04/04/1974,444 Jay Street,718-444-4444-,mjohnson@mycomp.com,VP
+5555,Nancy,Rivera,05/05/1975,555 Flatstand,718-555-5555-,nrivera@mycomp.com,Secretary
